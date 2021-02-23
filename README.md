@@ -1,15 +1,17 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+### Hello! 👋
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/fncarneiro/fncarneiro/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/fncarneiro/fncarneiro/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+I'm Andy. You can mostly find me on [Twitter](https://twitter.com/fncarneiro), where I work on the [Developer Relations team](https://twitter.com/twitterdev).
 
----
+I also sometimes write things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk).
 
-<p  align="center">
-<a href= "https://www.linkedin.com/in/o_fe/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://www.youtube.com/c/fncarneiro"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
-<a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/o_fe"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-</p>
+- 😄 Pronouns: they/them
+- 🔭 I’m currently working on supporting developers using the Twitter APIs, particularly [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
+- 💬 I help to look after the [Twitter Developer Community forums](https://twittercommunity.com), and you will also find me answering questions on [Stack Overflow](https://stackoverflow.com/users/262478/andy-piper).
+- 🌱 I’m currently learning .NET Core and Azure... when I have time!
+- Favorite editor: VS Code 
+- First computer: Acorn Electron
+
+
+[![Twitter](https://img.shields.io/badge/fncarneiro%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fncarneiro) [![YouTube](https://img.shields.io/badge/fncarneiro%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/fncarneiro) <img src="https://img.shields.io/badge/LostRinkitink%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/> 
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fncarneiro&layout=compact" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" /></div>
