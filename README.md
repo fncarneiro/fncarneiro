@@ -3,7 +3,7 @@
 I'm Fernando. I'm fullstack software developer.
 
 - 🔭 For over 31 years I have been working at Dataprev (http://dataprev.gov.br) developing applications for the Brazilian government's social security.
-- 🌱 I’m currently learning Next.js and Java Spring Boot.
+- 🌱 I’m currently learning Node.js, React.js, Next.js, Java Spring Boot and Business Intelligence.
 - 👯 I’m looking to collaborate on Projects and Hackathons.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Twitter - @o_fe
