@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fernando. I'm fullstack software developer.
+I'm Fernando. I'm full stack software developer.
 
 - 🔭 For over 31 years I have been working at Dataprev (http://dataprev.gov.br) developing applications for the Brazilian government's social security.
 - 🌱 I’m currently learning Node.js, React.js, Next.js, Java Spring Boot and Business Intelligence.
